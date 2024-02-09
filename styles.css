@@ -1,5 +1,21 @@
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/your-username/Expense-Tracker.git
-git branch -M main
-git push -u origin main
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#app {
+    max-width: 400px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px;
+}
